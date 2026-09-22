@@ -1,0 +1,4 @@
+ adafruit-io
+flask
+python-dotenv
+requests

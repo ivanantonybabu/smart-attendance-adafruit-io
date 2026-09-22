@@ -1,0 +1,9 @@
+source venv/bin/activate
+
+venv/
+iot.env
+__pycache__/
+*.pyc
+
+
+source venv/bin/activate
